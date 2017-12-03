@@ -1,7 +1,12 @@
 hello
 "Hey man"
+<<<<<<< HEAD
 #hello
-
+\\\\\
+=======
+#chewbaca
+#wahwah
+>>>>>>> a461bbcdc99fc6d2683f3eadf2eed4c18fcce39c
 "Good Morning!"
 5+5=10
 "A re you ready?"
